@@ -1,0 +1,103 @@
+body {
+    font-family: Poppins, serif;
+    background-color: black;
+    margin: 0 10%;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.blanched-almond{
+    background-color: blanchedalmond;
+}
+
+.blanched-almond p {
+    color: black;
+}
+
+.cabin {
+    font-family: cabin, sans-serif;
+}
+.container {
+    border: 2px solid #708090;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.color-container {
+    width: 100%;
+}
+
+.color-panel {
+    display: inline-block;
+    width: 33%;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+div {
+    display: block;
+}
+
+.dark-blue {
+    background-color: darkblue;
+}
+
+.font-container {
+    width: 100%;
+}
+.font-label {
+    text-decoration: underline;
+    font-size: 28px;
+}
+
+.font-panel {
+    display: inline-block;
+    width: 33%;
+    margin: 10px auto;
+    min-height: 100px;
+}
+
+.font-panel p {
+    text-align: left;
+}
+
+h1 {
+    color:mintcream;
+    text-align: center;
+}
+
+h2 {
+    color:mintcream;
+    text-decoration: underline;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.light-coral {
+    background-color: lightcoral;
+
+}
+
+.maroon {
+    background-color: maroon;
+}
+.medium-purple {
+    background-color: mediumpurple;
+}
+
+.olive-drab {
+    background-color: olivedrab;
+}
+
+p {
+    color:mintcream;
+    text-align: center;
+}
+
+.ubuntu {
+    font-family: Ubuntu, sans-serif;
+}
