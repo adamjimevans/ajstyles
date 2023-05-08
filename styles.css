@@ -25,10 +25,6 @@ body {
     margin: 10px auto;
 }
 
-.color-container {
-    width: 100%;
-}
-
 .color-panel {
     display: inline-block;
     width: 33%;
@@ -44,9 +40,7 @@ div {
     background-color: darkblue;
 }
 
-.font-container {
-    width: 100%;
-}
+
 .font-label {
     text-decoration: underline;
     font-size: 28px;
@@ -66,11 +60,17 @@ div {
 h1 {
     color:mintcream;
     text-align: center;
+    font-family: Lora, serif;
+    font-weight: 700;
+    font-size: 32px;
 }
 
 h2 {
     color:mintcream;
     text-decoration: underline;
+    font-weight: 500;
+    font-size: 26px;
+    font-family: ubuntu, serif;
 }
 
 .italic {
@@ -80,6 +80,10 @@ h2 {
 .light-coral {
     background-color: lightcoral;
 
+}
+
+li {
+    color: mintcream;
 }
 
 .maroon {
@@ -96,6 +100,32 @@ h2 {
 p {
     color:mintcream;
     text-align: center;
+    font-size: 20px;
+}
+
+.second-container {
+    width: 100%;
+}
+
+.text-1 {
+    background-color: #42b883;
+    margin:0
+}
+
+.text-2 {
+    background-color: #347474;
+}
+
+.text-3 {
+    background-color: #35495e;
+}
+
+.text-4 {
+    background-color: #ff7e67;
+}
+
+.text-panel h1 {
+    text-align: left;
 }
 
 .ubuntu {
